@@ -188,3 +188,4 @@ class main(tk.Tk):
 if __name__ == '__main__':
     app = main()
     app.mainloop()
+nigga
